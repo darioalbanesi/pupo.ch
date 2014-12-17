@@ -1,1 +1,1 @@
-alert('foo');
+$('.js-title').text('Hello World');
