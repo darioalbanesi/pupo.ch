@@ -1,1 +1,3 @@
-$('.js-title').text('Hello World');
+$(document).ready(function () {
+    $('.js-title').text('Hello World');
+})
